@@ -1,0 +1,52 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/71YK6Jg/online-blog.jpg",
+      "title": "The Enigmatic Cosmos",
+      "author": "Aria Smith",
+      "author_img": "https://i.ibb.co/D5zxVRH/pexels-vlada-karpovich-4050300.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 10,
+      "hashtags": ["science", "space", "mystery"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/YTVTkYH/composition-with-html-system-websites.jpg",
+      "title": "Secrets of the Deep",
+      "author": "Max Johnson",
+      "author_img": "https://i.ibb.co/L61vtP7/pexels-monstera-production-6373289.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 8,
+      "hashtags": ["ocean", "adventure", "discovery"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/kBSCy2c/blog-cover.jpg",
+      "title": "Infinite Horizons",
+      "author": "Eva Rodriguez",
+      "author_img": "https://i.ibb.co/nL06pvJ/pexels-los-muertos-crew-7260644.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 12,
+      "hashtags": ["horizon", "exploration", "possibility"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://i.ibb.co/Dp7jdyQ/pexels-pixabay-60597.jpg",
+      "title": "Echoes of History",
+      "author": "Jack Thompson",
+      "author_img": "https://i.ibb.co/19sC19C/pexels-los-muertos-crew-7260633.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 15,
+      "hashtags": ["history", "legacy", "heritage"]
+    },
+    {
+        "id": "901234",
+        "cover": "https://i.ibb.co/0Vpqv8D/pexels-craig-adderley-1563355.jpg",
+        "title": "Echoes of History",
+        "author": "Jack Thompson",
+        "author_img": "https://i.ibb.co/74Q34qs/pexels-cottonbro-studio-4865518.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 15,
+        "hashtags": ["history", "legacy", "heritage"]
+      }
+    ]
